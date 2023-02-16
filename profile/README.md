@@ -7,7 +7,7 @@ This repository contains the source code of different websites and web-services 
 - Ataf Fazledin Ahamed (@fazledyn)
 
 ## Picture Puzzle w/ Shomiti Detector [https://punzzle.buetcsefest2022.com]
-#### https://github.com/buetcsefest2022/treasure-hunt
+#### https://github.com/buetcsefest2022/picture-puzzle
 - Arif Shahriar Rahman (@ArifShahriar)
 - Farhana Khan (@Farhana100)
 
