@@ -13,6 +13,7 @@ This repository contains the source code of different websites and web-services 
 
 ## DL Sprint Data Collection Website [https://voice.buetcsefest2022.com]
 #### https://github.com/buetcsefest2022/voice-data-backend
+#### https://github.com/buetcsefest2022/voice-data-frontend
 - Jayanta Sadhu (@Jayanta47)
 - Sadat Shahriyar (@Sadat-Shahriyar)
 
