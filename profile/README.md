@@ -5,13 +5,13 @@ This repository contains the source code of different websites and web-services 
 - Tanzim Azad Nishan (@TanzimAzadNishan)
 - Ataf Fazledin Ahamed (@fazledyn)
 
-## Picture Puzzle [https://punzzle.buetcsefest2022.com]
+## Picture Puzzle w/ Shomiti Detector [https://punzzle.buetcsefest2022.com]
 - Arif Shahriar Rahman (@ArifShahriar)
-- Farhana Khan (@farhana100)
+- Farhana Khan (@Farhana100)
 
 ## DL Sprint Data Collection Website [https://voice.buetcsefest2022.com]
-- Jayanta Sadhu (@jayanta47)
-- Sadat Shahriyar (@sadatshahriyar)
+- Jayanta Sadhu (@Jayanta47)
+- Sadat Shahriyar (@Sadat-Shahriyar)
 
 ## Treasure Hunt [https://hunt.buetcsefest2022.com]
 - Ataf Fazledin Ahamed (@fazledyn)
