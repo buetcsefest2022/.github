@@ -32,6 +32,7 @@ This repository contains the source code of different websites and web-services 
 ## Treasure Hunt [https://hunt.buetcsefest2022.com]
 **Repo:**
 - https://github.com/buetcsefest2022/treasure-hunt
+
 Mainly adapted from @ajoydas and @shamsadsajid 's website from BUET CSE Fest 2019.
 
 **Author:**
